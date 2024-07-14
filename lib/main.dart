@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:sm_task/home.dart';
+import 'package:sm_task/local.dart';
 
 void main() {
   runApp(const MyApp());
